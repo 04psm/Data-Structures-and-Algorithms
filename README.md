@@ -2,8 +2,10 @@
 
 Array.
 
-Linked List.
-Stack.
+Linked List
+.Stack
+
+.
 Queue.
 Binary Tree.
 Binary Search Tree.
