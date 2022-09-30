@@ -1,8 +1,8 @@
 # Data-Structures-and-Algorithms
 
-#Array
+# Array
 
-#Linked List
+# Linked List
 
 # Stack
 
