@@ -1,17 +1,17 @@
 # Data-Structures-and-Algorithms
 
-# Array
+ Array
 
-# Linked List
+ Linked List
 
-# Stack
+ Stack
 
-# Queue
+ Queue
 
-# Binary Tree
+ Binary Tree
 
-# Binary Search Tree
+ Binary Search Tree
 
-# Heap
+ Heap
 
-# Hashing
+ Hashing
